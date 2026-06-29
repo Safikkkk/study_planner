@@ -64,10 +64,3 @@ Copyright © 2026 Safik Sherasiya
 
 All rights reserved.
 
-
-Contributors:
-
-* Nisar Badi
-* Azim Kadivar
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
