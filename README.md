@@ -59,8 +59,9 @@ Nisar Badi
 Azim Kadivar
 
 ## License
-
 Copyright © 2026 Safik Sherasiya
 
-All rights reserved.
+This project is licensed under the MIT License.
+
+
 
