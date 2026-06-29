@@ -64,15 +64,6 @@ Copyright © 2026 Safik Sherasiya
 
 All rights reserved.
 
-This software and associated documentation files are the property of Safik Sherasiya.
-
-This project was developed for educational and academic purposes.
-
-Unauthorized copying, modification, redistribution, publication, or commercial use of this software without written permission from the copyright holder is prohibited.
-
-Lead Developer:
-
-* Safik Sherasiya
 
 Contributors:
 
